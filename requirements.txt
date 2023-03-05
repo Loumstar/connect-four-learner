@@ -1,0 +1,10 @@
+arcade
+torch
+torchvision
+numpy
+black
+autopep8
+pyglet
+tqdm
+pytest
+matplotlib
